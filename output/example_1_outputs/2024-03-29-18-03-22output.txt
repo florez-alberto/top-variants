@@ -1,0 +1,6 @@
+prob T1
+degeneracy_strategy_list: NNN
+counts_list: 3
+library_size: 175835
+chunk_size: 1000
+T1 probability: 0.9900000262662139

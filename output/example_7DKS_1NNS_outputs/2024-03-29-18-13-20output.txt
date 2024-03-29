@@ -1,0 +1,6 @@
+prob T1
+degeneracy_strategy_list: DKS,NNS
+counts_list: 7,1
+library_size: 200000
+chunk_size: 1000
+T1 probability: 0.0009675479282818195
