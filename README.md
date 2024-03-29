@@ -1,4 +1,4 @@
-![Cover Image](./img/cover_image.jpg)
+![Cover Image](./img/cover_image.png)
 
 # Top Variants
 
