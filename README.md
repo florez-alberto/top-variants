@@ -1,7 +1,6 @@
-![Cover Image](./img/cover_image.png)
-
 # Top Variants
-
+![Cover Image](./img/cover_image.png)
+  
 This script calculates the probability of finding the top variant in a library of sequences and the probability of finding the top K variants as [Nov published it in 2012](https://doi-org.insb.bib.cnrs.fr/10.1128/AEM.06265-11). The results from his paper were reproduced and can be found as a script in the examples folder. This script builds on top, with the ability to mix different proportions of NNS, DKS or NNN strategies. In the example, 7 DKS + 1 NNS position and 7 NNS positions were applied. 
 A computer with a good GPU is recommended to handle the load. 
 
